@@ -3,4 +3,4 @@ Calculator built using Tkinter (python).
 
 It supports chaining operations.
 
-![Image of the calculator](https://ibb.co/gzpR93p)
+![Image of the calculator](https://i.ibb.co/KFkrhXk/ca.png)
