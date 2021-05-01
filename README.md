@@ -1,6 +1,6 @@
 # calculator
 
-Calculator built using python (Tkinter)
+A calculator built using python (Tkinter)
 
 It supports chaining operations, keyboard inputs, converting to scientific notation and simple functions like square root.
 
