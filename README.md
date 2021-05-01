@@ -1,8 +1,8 @@
-#calculator
+# calculator
 
 Calculator built using python (Tkinter)
 
-#key bindings
+# key bindings
 
 Enter - get result
 
