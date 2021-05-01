@@ -2,11 +2,13 @@
 
 Calculator built using python (Tkinter)
 
+It supports chaining operations, keyboard inputs, converting to scientific notation and simple functions like square root.
+
 # key bindings
 
-Enter - get result
+Enter - calculate the result
 
-Backspace - remove last character
+Backspace - remove the last character
 
 Delete - clear
 
